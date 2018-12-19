@@ -33,6 +33,43 @@ Turn on/off the subtiles at the toolbar of smplayer!
 
 
 
+4. MediaStudyPlayer
+(1)
+winecfg   				#Remove the addtional libraries and keep the original state!
+wine MediaStudyPlayer   #Play *.mp3 OK! But play *.mp4 FAILED!
+
+(2)
+https://www.filepuma.com/download/k_lite_codec_pack_full_10.0.5-4025/download/
+wine K-Lite_Codec_Pack_1385_Mega.exe    ###Still crash when run MediaStudy Player!!!
+
+(3)winehq
+https://baijiahao.baidu.com/s?id=1594793492748351964&wfr=spider&for=pc
+update and install new version of wine
+wine --version			#The output is: wine-3.0.4
+
+
+(4)
+cd /root/.wine/drive_c/Program Files (x86)/K-Lite Codec Pack/Media Player Classic
+wine mpc-hc.exe			#Play a.mp4 OK, but the image is upside down! If uninstall and install  wine K-Lite_Codec_Pack_1385_Mega.exe again, image is OK!
+
+
+
+(5)
+
+qdvd.dll
+qasf.dll
+d3d8thk.dll
+regserv32
+
+
+
+
+
+
+
+
+
+
 
 
 
