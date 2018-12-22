@@ -1,0 +1,908 @@
+﻿1
+00:00:00,030 --> 00:00:01,919
+we begin this hour with the latest tit
+
+2
+00:00:01,919 --> 00:00:04,440
+for tat between the US and China one day
+
+3
+00:00:04,440 --> 00:00:06,359
+after the United States accused two
+
+4
+00:00:06,359 --> 00:00:07,980
+Chinese citizens of carrying out an
+
+5
+00:00:07,980 --> 00:00:10,380
+extensive hacking campaign to steal data
+
+6
+00:00:10,380 --> 00:00:12,718
+from American companies China is now
+
+7
+00:00:12,718 --> 00:00:15,900
+firing back defending itself huge and
+
+8
+00:00:15,900 --> 00:00:18,600
+floatin a million the Chinese government
+
+9
+00:00:18,600 --> 00:00:20,939
+has never participated or supported
+
+10
+00:00:20,939 --> 00:00:23,579
+anyone in stealing business secrets for
+
+11
+00:00:23,579 --> 00:00:25,739
+a long time the relevant US departments
+
+12
+00:00:25,739 --> 00:00:27,899
+have been conducting organized and
+
+13
+00:00:27,899 --> 00:00:29,879
+large-scale cyber espionage and
+
+14
+00:00:29,879 --> 00:00:32,189
+surveillance on a lot of individuals and
+
+15
+00:00:32,189 --> 00:00:35,359
+organizations it has been an OD secret
+
+16
+00:00:35,359 --> 00:00:37,229
+and it doesn't end there
+
+17
+00:00:37,229 --> 00:00:41,628
+Rachel Blevins breaks it all down for us
+
+18
+00:00:41,628 --> 00:00:44,128
+the tit for tat battle between the
+
+19
+00:00:44,128 --> 00:00:46,439
+United States and China continues to
+
+20
+00:00:46,439 --> 00:00:49,079
+escalate and now China is accusing the
+
+21
+00:00:49,079 --> 00:00:51,659
+u.s. of fabricating facts in its cyber
+
+22
+00:00:51,659 --> 00:00:54,780
+hacking claims these latest accusations
+
+23
+00:00:54,780 --> 00:00:57,479
+come after the u.s. charged two Chinese
+
+24
+00:00:57,479 --> 00:00:59,549
+nationals with stealing trade secrets
+
+25
+00:00:59,549 --> 00:01:02,149
+from American government agencies
+
+26
+00:01:02,149 --> 00:01:04,859
+according to an unsealed indictment the
+
+27
+00:01:04,859 --> 00:01:07,140
+two alleged hackers were able to breach
+
+28
+00:01:07,140 --> 00:01:10,469
+computers of more than 45 entities in a
+
+29
+00:01:10,469 --> 00:01:12,859
+variety of industries including aviation
+
+30
+00:01:12,859 --> 00:01:16,469
+space and pharmaceutical technology all
+
+31
+00:01:16,469 --> 00:01:19,530
+on behalf of the Chinese military the
+
+32
+00:01:19,530 --> 00:01:21,329
+Department of Justice claims that the
+
+33
+00:01:21,329 --> 00:01:24,239
+suspects were part of a group called apt
+
+34
+00:01:24,239 --> 00:01:27,450
+10 that had dozens of computers in at
+
+35
+00:01:27,450 --> 00:01:30,810
+least a dozen countries the charges
+
+36
+00:01:30,810 --> 00:01:33,090
+include conspiracy to commit computer
+
+37
+00:01:33,090 --> 00:01:34,978
+intrusions against dozens of companies
+
+38
+00:01:34,978 --> 00:01:37,950
+in the United States and around the
+
+39
+00:01:37,950 --> 00:01:38,989
+world
+
+40
+00:01:38,989 --> 00:01:42,328
+the DOJ went on to accuse the group of
+
+41
+00:01:42,328 --> 00:01:44,640
+quote outright cheating and theft and
+
+42
+00:01:44,640 --> 00:01:47,040
+claim that it's alleged actions gave
+
+43
+00:01:47,040 --> 00:01:49,379
+China and unfair advantage at the
+
+44
+00:01:49,379 --> 00:01:52,049
+expense of law-abiding businesses and
+
+45
+00:01:52,049 --> 00:01:54,810
+countries but China is claiming that the
+
+46
+00:01:54,810 --> 00:01:56,368
+United States is the one that is
+
+47
+00:01:56,368 --> 00:01:58,890
+responsible for cyber espionage a
+
+48
+00:01:58,890 --> 00:02:00,930
+spokesperson for the country's Ministry
+
+49
+00:02:00,930 --> 00:02:03,120
+of Foreign Affairs demanded in a
+
+50
+00:02:03,120 --> 00:02:06,000
+Media tend to what she called fabricated
+
+51
+00:02:06,000 --> 00:02:09,719
+facts maybe well the u.s. is the biggest
+
+52
+00:02:09,719 --> 00:02:12,389
+power in the world but it is arrogant
+
+53
+00:02:12,389 --> 00:02:14,460
+and selfish and plays hard to suppress
+
+54
+00:02:14,460 --> 00:02:16,409
+the legitimate development rights of
+
+55
+00:02:16,409 --> 00:02:18,300
+other countries out of its own pursuit
+
+56
+00:02:18,300 --> 00:02:20,819
+of hegemony and Merrill mind it even
+
+57
+00:02:20,819 --> 00:02:24,270
+fabricated maxim this does not match his
+
+58
+00:02:24,270 --> 00:02:26,969
+status as a big powers this kind of us
+
+59
+00:02:26,969 --> 00:02:29,060
+is not good for peace and development
+
+60
+00:02:29,060 --> 00:02:31,650
+well it does not appear that the two
+
+61
+00:02:31,650 --> 00:02:33,840
+individuals named in the indictment have
+
+62
+00:02:33,840 --> 00:02:36,000
+been taken into custody the United
+
+63
+00:02:36,000 --> 00:02:37,620
+States claimed that more than a dozen
+
+64
+00:02:37,620 --> 00:02:39,780
+countries were affected by the alleged
+
+65
+00:02:39,780 --> 00:02:43,139
+hack could have a major impact now the
+
+66
+00:02:43,139 --> 00:02:45,539
+UK has joined with the US and has
+
+67
+00:02:45,539 --> 00:02:47,789
+publicly claimed that this campaign is
+
+68
+00:02:47,789 --> 00:02:49,919
+one of the most significant and
+
+69
+00:02:49,919 --> 00:02:52,740
+widespread cyber intrusions against the
+
+70
+00:02:52,740 --> 00:02:55,229
+UK and its allies that has been
+
+71
+00:02:55,229 --> 00:02:57,750
+uncovered to date with the intent to
+
+72
+00:02:57,750 --> 00:03:00,659
+target trade secrets and economic
+
+73
+00:03:00,659 --> 00:03:03,419
+interest around the world so while a
+
+74
+00:03:03,419 --> 00:03:06,060
+range of claims have been made by both
+
+75
+00:03:06,060 --> 00:03:08,550
+sides in this conflict it still remains
+
+76
+00:03:08,550 --> 00:03:10,379
+to be seen whether the countries
+
+77
+00:03:10,379 --> 00:03:13,349
+involved will actively retaliate and if
+
+78
+00:03:13,349 --> 00:03:15,090
+any evidence of the alleged cyber
+
+79
+00:03:15,090 --> 00:03:17,659
+hacking claims will be made public in
+
+80
+00:03:17,659 --> 00:03:22,709
+Washington Rachel Blevins RT and joining
+
+81
+00:03:22,709 --> 00:03:24,479
+me now to discuss investigative
+
+82
+00:03:24,479 --> 00:03:26,810
+journalist Ben Swan hey there Ben so
+
+83
+00:03:26,810 --> 00:03:29,370
+things appeared to be easing up though
+
+84
+00:03:29,370 --> 00:03:31,439
+between the US and China trade talks
+
+85
+00:03:31,439 --> 00:03:34,530
+were back underway and then BAM the u.s.
+
+86
+00:03:34,530 --> 00:03:37,259
+calls Canada to arrest the the Huawei
+
+87
+00:03:37,259 --> 00:03:41,039
+CFO and now this so what do you make of
+
+88
+00:03:41,039 --> 00:03:44,099
+the current us-china relations well I
+
+89
+00:03:44,099 --> 00:03:46,139
+think that as you said you know it
+
+90
+00:03:46,139 --> 00:03:47,550
+seemed like things were kind of on track
+
+91
+00:03:47,550 --> 00:03:48,599
+and things were going well
+
+92
+00:03:48,599 --> 00:03:50,400
+and then all of a sudden we ended up in
+
+93
+00:03:50,400 --> 00:03:51,689
+this situation that where it becomes
+
+94
+00:03:51,689 --> 00:03:53,819
+very messy obviously the arrests of the
+
+95
+00:03:53,819 --> 00:03:56,310
+CFO was a very big deal China's very
+
+96
+00:03:56,310 --> 00:03:58,199
+upset about it it's having big
+
+97
+00:03:58,199 --> 00:04:00,330
+ramifications for Canada as well but I
+
+98
+00:04:00,330 --> 00:04:01,469
+think the other thing that's taking
+
+99
+00:04:01,469 --> 00:04:04,169
+place here is that we know there's this
+
+100
+00:04:04,169 --> 00:04:06,090
+back and forth over tariffs right now on
+
+101
+00:04:06,090 --> 00:04:07,650
+and I wonder how much of that is playing
+
+102
+00:04:07,650 --> 00:04:09,539
+into this which side is going to get the
+
+103
+00:04:09,539 --> 00:04:12,030
+upper hand in terms of trade tariffs and
+
+104
+00:04:12,030 --> 00:04:13,620
+and how that plays out and how much of
+
+105
+00:04:13,620 --> 00:04:15,479
+what's going on right now is kind of a
+
+106
+00:04:15,479 --> 00:04:18,329
+falling over that backdrop and let's
+
+107
+00:04:18,329 --> 00:04:20,310
+let's talk about cybersecurity I know
+
+108
+00:04:20,310 --> 00:04:22,108
+that's really in your wheelhouse they're
+
+109
+00:04:22,108 --> 00:04:25,290
+experts all over the country say that
+
+110
+00:04:25,290 --> 00:04:28,500
+China has been on a global tear in the
+
+111
+00:04:28,500 --> 00:04:30,720
+way of cyber espionage ever since at
+
+112
+00:04:30,720 --> 00:04:33,269
+least 2014 and believe that it's China
+
+113
+00:04:33,269 --> 00:04:35,189
+that's really America's number one
+
+114
+00:04:35,189 --> 00:04:38,339
+threat in this new century do you agree
+
+115
+00:04:38,339 --> 00:04:42,810
+with that sentiment so cyber security is
+
+116
+00:04:42,810 --> 00:04:45,209
+a very big deal and is China the biggest
+
+117
+00:04:45,209 --> 00:04:47,279
+threat maybe I think there's a you could
+
+118
+00:04:47,279 --> 00:04:49,110
+make a very strong case for the idea
+
+119
+00:04:49,110 --> 00:04:50,850
+that China is here's the problem is that
+
+120
+00:04:50,850 --> 00:04:53,910
+everyone's hands are so dirty when it
+
+121
+00:04:53,910 --> 00:04:56,459
+comes to cyber security the u.s. is in
+
+122
+00:04:56,459 --> 00:04:59,189
+such a mess of its own obviously you go
+
+123
+00:04:59,189 --> 00:05:01,439
+back into 2014 in Edward Snowden and all
+
+124
+00:05:01,439 --> 00:05:02,550
+the stuff that came out about what the
+
+125
+00:05:02,550 --> 00:05:04,439
+NSA had been doing in the US government
+
+126
+00:05:04,439 --> 00:05:05,668
+have been doing spying on foreign
+
+127
+00:05:05,668 --> 00:05:07,978
+leaders hacking emails of Americans and
+
+128
+00:05:07,978 --> 00:05:09,990
+people internationally but there's a lot
+
+129
+00:05:09,990 --> 00:05:11,579
+of issues here but that doesn't mean
+
+130
+00:05:11,579 --> 00:05:13,740
+that China is it's okay for trying to do
+
+131
+00:05:13,740 --> 00:05:15,449
+whatever they're doing it's just that
+
+132
+00:05:15,449 --> 00:05:18,209
+everyone is such a dirty player in this
+
+133
+00:05:18,209 --> 00:05:20,038
+space and so many of these governments
+
+134
+00:05:20,038 --> 00:05:21,538
+are that it's hard to say well this is
+
+135
+00:05:21,538 --> 00:05:23,069
+the biggest threat this one's the most
+
+136
+00:05:23,069 --> 00:05:25,319
+dangerous because we're all doing it all
+
+137
+00:05:25,319 --> 00:05:26,939
+these nations are doing it to each other
+
+138
+00:05:26,939 --> 00:05:28,800
+if everyone would stop maybe we could
+
+139
+00:05:28,800 --> 00:05:30,089
+figure out what the bad players are but
+
+140
+00:05:30,089 --> 00:05:31,350
+no one wants to stop they just want to
+
+141
+00:05:31,350 --> 00:05:33,538
+say well we're not as bad as they are or
+
+142
+00:05:33,538 --> 00:05:34,829
+we have to do it because they're doing
+
+143
+00:05:34,829 --> 00:05:38,100
+it true but now another flash point in
+
+144
+00:05:38,100 --> 00:05:41,009
+us-china relations is is over the South
+
+145
+00:05:41,009 --> 00:05:43,829
+China Sea the Chinese continue to build
+
+146
+00:05:43,829 --> 00:05:46,410
+up their naval fleet there the US and
+
+147
+00:05:46,410 --> 00:05:48,990
+its allies find this to be some sort of
+
+148
+00:05:48,990 --> 00:05:51,990
+threat first why is this a threat to the
+
+149
+00:05:51,990 --> 00:05:54,478
+US and what do you view would be a fair
+
+150
+00:05:54,478 --> 00:05:57,149
+response to counter China's actions
+
+151
+00:05:57,149 --> 00:06:00,779
+there well look as someone who believes
+
+152
+00:06:00,779 --> 00:06:02,970
+the US needs to be involved in far fewer
+
+153
+00:06:02,970 --> 00:06:05,189
+interventions around the world you know
+
+154
+00:06:05,189 --> 00:06:08,250
+we know that the u.s. loves to flex its
+
+155
+00:06:08,250 --> 00:06:09,750
+military muscle we spend so much money
+
+156
+00:06:09,750 --> 00:06:12,120
+on military so everything you know we s
+
+157
+00:06:12,120 --> 00:06:13,139
+when you're a hammer everything looks
+
+158
+00:06:13,139 --> 00:06:14,910
+like a nail right and so that's how they
+
+159
+00:06:14,910 --> 00:06:16,740
+you as a military sees everything and
+
+160
+00:06:16,740 --> 00:06:17,939
+yet you know you look at what's
+
+161
+00:06:17,939 --> 00:06:19,620
+happening in the South China Sea how
+
+162
+00:06:19,620 --> 00:06:22,259
+does that really affect the US and u.s.
+
+163
+00:06:22,259 --> 00:06:24,120
+sovereignty and the security of the
+
+164
+00:06:24,120 --> 00:06:26,848
+United States it's not like China is
+
+165
+00:06:26,848 --> 00:06:27,408
+building up
+
+166
+00:06:27,408 --> 00:06:30,319
+fleets on the coast of Maine now doing
+
+167
+00:06:30,319 --> 00:06:32,449
+this in the Gulf of Mexico right and so
+
+168
+00:06:32,449 --> 00:06:34,459
+I think that's one of the the problems
+
+169
+00:06:34,459 --> 00:06:36,348
+with the with the narrative that every
+
+170
+00:06:36,348 --> 00:06:37,908
+time any government does anything
+
+171
+00:06:37,908 --> 00:06:40,610
+military wise the US has to respond in
+
+172
+00:06:40,610 --> 00:06:42,769
+some military way to continue to be what
+
+173
+00:06:42,769 --> 00:06:44,538
+policeman of the world to flex its
+
+174
+00:06:44,538 --> 00:06:46,069
+military might I just I don't think that
+
+175
+00:06:46,069 --> 00:06:48,079
+it's necessary for the u.s. to respond
+
+176
+00:06:48,079 --> 00:06:49,999
+every time another government in its own
+
+177
+00:06:49,999 --> 00:06:51,978
+corner of the world does something now
+
+178
+00:06:51,978 --> 00:06:54,829
+last Ben I want you to listen to what
+
+179
+00:06:54,829 --> 00:06:55,928
+the Chinese foreign ministry
+
+180
+00:06:55,928 --> 00:06:58,639
+spokesperson had to say and I want to
+
+181
+00:06:58,639 --> 00:07:00,949
+get your response on the other side we
+
+182
+00:07:00,949 --> 00:07:02,988
+urged the u.s. to immediately correct
+
+183
+00:07:02,988 --> 00:07:06,168
+its wrong actions stop slandering and
+
+184
+00:07:06,168 --> 00:07:08,028
+blackening China on the cybersecurity
+
+185
+00:07:08,028 --> 00:07:10,968
+issue and withdraw the so called
+
+186
+00:07:10,968 --> 00:07:14,178
+indictment of Chinese citizens so as to
+
+187
+00:07:14,178 --> 00:07:16,639
+avoid serious damage to china-us
+
+188
+00:07:16,639 --> 00:07:19,759
+relations in bilateral cooperation and
+
+189
+00:07:19,759 --> 00:07:22,848
+relevant fields is that fair is the US
+
+190
+00:07:22,848 --> 00:07:26,238
+making an example of these guys I think
+
+191
+00:07:26,238 --> 00:07:27,738
+the u.s. is trying to make an example of
+
+192
+00:07:27,738 --> 00:07:29,300
+them and you know when you consider that
+
+193
+00:07:29,300 --> 00:07:33,139
+that the arrest of the CFO right is that
+
+194
+00:07:33,139 --> 00:07:35,598
+would be the equivalency of someone like
+
+195
+00:07:35,598 --> 00:07:38,269
+a Tim Cook from Apple being arrested in
+
+196
+00:07:38,269 --> 00:07:40,189
+Beijing and the Chinese government
+
+197
+00:07:40,189 --> 00:07:41,990
+holding them if that were to happen the
+
+198
+00:07:41,990 --> 00:07:44,658
+US would for lack of a better term flip
+
+199
+00:07:44,658 --> 00:07:48,860
+its wig right nuts if that were to
+
+200
+00:07:48,860 --> 00:07:51,439
+happen to a prominent CEO or CFO of a
+
+201
+00:07:51,439 --> 00:07:54,619
+major US tech company and yet - for the
+
+202
+00:07:54,619 --> 00:07:56,899
+u.s. to be involved in this the US and
+
+203
+00:07:56,899 --> 00:07:59,178
+Canada - to have the CFO arrested and
+
+204
+00:07:59,178 --> 00:08:01,278
+want her in sent to the United States
+
+205
+00:08:01,278 --> 00:08:03,738
+and and AW extradite is the word I'm
+
+206
+00:08:03,738 --> 00:08:04,728
+looking for all these things that are
+
+207
+00:08:04,728 --> 00:08:06,439
+taking place yeah I think that it's
+
+208
+00:08:06,439 --> 00:08:08,329
+reasonable that China is upset about
+
+209
+00:08:08,329 --> 00:08:10,550
+this for for people who look at that and
+
+210
+00:08:10,550 --> 00:08:12,499
+say well I you know why is China so
+
+211
+00:08:12,499 --> 00:08:14,569
+upset just imagine if the shoe were on
+
+212
+00:08:14,569 --> 00:08:16,129
+the other foot and the analyst would see
+
+213
+00:08:16,129 --> 00:08:18,559
+it as an attack on US Authority u.s.
+
+214
+00:08:18,559 --> 00:08:20,778
+sovereignty you know as being the
+
+215
+00:08:20,778 --> 00:08:21,800
+biggest player in the world so I
+
+216
+00:08:21,800 --> 00:08:23,598
+understand why the Chinese are about it
+
+217
+00:08:23,598 --> 00:08:25,069
+again I think a lot of it just comes
+
+218
+00:08:25,069 --> 00:08:27,829
+back to everyone's hands so dirty on so
+
+219
+00:08:27,829 --> 00:08:29,209
+many of these levels all right we gotta
+
+220
+00:08:29,209 --> 00:08:30,559
+leave it right there thanks so much for
+
+221
+00:08:30,559 --> 00:08:34,278
+that as always been Swann hey YouTube
+
+222
+00:08:34,278 --> 00:08:35,750
+thanks for checking out our Channel we
+
+223
+00:08:35,750 --> 00:08:37,458
+hope you enjoyed the video we have tons
+
+224
+00:08:37,458 --> 00:08:39,418
+of content for you just like this for
+
+225
+00:08:39,418 --> 00:08:41,250
+more of Artie America's one-of-a-kind
+
+226
+00:08:41,250 --> 00:08:43,078
+news and analysis be sure to subscribe
+
+227
+00:08:43,078 --> 00:08:44,979
+and never stop questioning more
+
